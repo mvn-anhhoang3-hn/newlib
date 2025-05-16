@@ -5,5 +5,5 @@ import "fmt"
 func Log() {
 	// This is a placeholder for the log function.
 	// In a real implementation, this function would contain code to log messages.
-	fmt.Println("Logging a message... v0.1.0")
+	fmt.Println("Logging a message... v1.0.0")
 }
